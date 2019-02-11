@@ -1,2 +1,8 @@
 
 https://github.com/serejaishkin/web.git
+git add -A добовляет все
+git commit -m коменты
+git push
+https://github.com/grismanss
+git status
+git clone http:// ссылка на рипазиторий
