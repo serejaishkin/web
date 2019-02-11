@@ -6,3 +6,4 @@ git push
 https://github.com/grismanss
 git status
 git clone http:// ссылка на рипазиторий
+git pull загрузить изменение в папку
